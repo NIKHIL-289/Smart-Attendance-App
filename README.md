@@ -1,7 +1,3 @@
-Here is your **GitHub-ready README.md** recreated from your file, keeping the **same structure and content**, but formatted properly for GitHub:
-
----
-
 # 📌 SMART ATTENDANCE MANAGEMENT SYSTEM
 
 ## 📖 Project Overview
